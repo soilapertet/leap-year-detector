@@ -5,3 +5,8 @@ body
   background-size: cover;
   background-attachment: fixed;
 }
+.card
+{
+  background-image: linear-gradient(to bottom right, #96deda, #50c9c3);
+  opacity: 0.9;
+}
